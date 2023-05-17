@@ -15,7 +15,7 @@ public class Eduardo_Exercicio03 {
 
     System.out.print("Digite o valor da altura: ");
     al = ler.nextDouble();
-    System.out.print("Digite o valor da altura: ");
+    System.out.print("Digite o valor da base: ");
     ba = ler.nextDouble();
 
     System.out.print("A área do triangulo é:" +((al*ba)/2));
