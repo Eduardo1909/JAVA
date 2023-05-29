@@ -7,9 +7,12 @@ import java.util.Scanner;
 
 public class Eduardo_Exercicio05 {
     public static void main(String[]args)
+        
+//DECLARAÇÃO DE VARIAVEL
     Scanner ler = new Scanner(System.in);
     int a = 0;
 
+//INICIO
     System.out.print("Digite um valor: ");
     a = ler.nextDouble();
 
