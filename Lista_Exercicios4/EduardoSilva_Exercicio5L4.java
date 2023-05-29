@@ -1,6 +1,6 @@
 /*
-Descrição: Esta lógica recebe 50 números reais e 50 números inteiros, os soma e no final mostra qual dos dois é maior
-Nome: Alan Santana Leão
+Descrição: JAVA
+Nome: Eduardo
 Data: 28/05/2023
  */
 
