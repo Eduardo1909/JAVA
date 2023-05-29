@@ -7,11 +7,14 @@
 
 public class Eduardo_Exercicio04 {
     public static void main(String[]args)
+     
+//DECLARAÇÃO DE VARIAVEL
     Scanner ler = new Scanner(System.in);
     int a = 0;
     int b = 0;
     int c = 0;
 
+//INICIO
     System.out.print("Digite o valor de A: ");
     a = ler.nextDouble();
     System.out.print("Digite o valor de B: ");
