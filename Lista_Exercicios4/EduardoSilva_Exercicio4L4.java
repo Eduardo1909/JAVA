@@ -8,10 +8,10 @@
 
 public class EduardoSilva_Exercicio4L4 {
             public static void main(String[] args) {
-                Scanner scanner = new Scanner(System.in);
+                Scanner ler = new Scanner(System.in);
         
                 System.out.print("Digite um texto: ");
-                String texto = scanner.nextLine();
+                String texto = ler.nextLine();
 //VARIAVEL
                 int qc = texto.length();
 //INICIO
