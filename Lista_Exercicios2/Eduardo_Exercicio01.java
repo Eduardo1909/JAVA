@@ -7,9 +7,11 @@ import java.util.Scanner;
 
 public class Eduardo_Exercicio01 {
     public static void main(String[]args)
+//DECLARAÇÃO DE VARIAVEL        
     Scanner ler = new Scanner(System.in);
     double n1 = 0.0;
 
+//INICIO
     System.out.print("Digite o valor que deseje aplicar o desconto: ");
     n1 = ler.nextDouble();
     
