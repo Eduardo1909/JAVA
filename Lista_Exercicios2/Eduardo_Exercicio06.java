@@ -7,11 +7,14 @@
 
 public class Eduardo_Exercicio06 {
     public static void main(String[]args)
+     
+//DECLARAÇÃO DE VARIAVEL
     Scanner ler = new Scanner(System.in);
     int k = 0;
     int l = 0;
     int r = 0;
-
+ 
+//INICIO
     System.out.print("Digite a quantia de sorvetes de Kiwi, Laranja e Romã qua a pessoa comprou: ");
     k = ler.nextDouble();
     l = ler.nextDouble();
