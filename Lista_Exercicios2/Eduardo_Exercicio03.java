@@ -8,11 +8,13 @@
 public class Eduardo_Exercicio03 {
 
     public static void main(String[]args)
+//DECLARAÇÃO DE VARIAVEL     
     Scanner ler = new Scanner(System.in);
     int a = 0;
     int al = 0;
     int ba = 0;
-
+ 
+ //INICIO
     System.out.print("Digite o valor da altura: ");
     al = ler.nextDouble();
     System.out.print("Digite o valor da base: ");
