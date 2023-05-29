@@ -1,7 +1,6 @@
-/*
-Descrição: Esta lógica recebe três números, os soma e caso a soma seja diferente de 48 ou 71, ele se repete INFINITAMENTE
-Nome: Alan Santana Leão
-Data: 28/05/2023
+/*Descrição: Esta lógica recebe três números, os soma e caso a soma seja diferente de 48 ou 71, ele se repete INFINITAMENTE
+*Nome: Eduardo
+*Data: 29/05/2023
  */
 
  import java.util.Scanner;
