@@ -7,9 +7,12 @@
 
 public class Eduardo_Exercicio07 {
     public static void main(String[]args)
+     
+//DECLARAÇÃO DE VARIAVEL
     Scanner ler = new Scanner(System.in);
     int a = 0;
 
+//INICIO 
     System.out.print("Digite um número aleatorio: ");
     a = ler.nextInt();
 
