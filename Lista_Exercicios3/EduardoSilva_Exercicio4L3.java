@@ -1,4 +1,4 @@
-/*Descrição: JAVA que mostra os números entre dois outros números
+/*Descrição: JAVA que mostra todos impares de 0 a 1000
 *Autor: Eduardo
 *Ultima atualização: 29/05/23
 */
