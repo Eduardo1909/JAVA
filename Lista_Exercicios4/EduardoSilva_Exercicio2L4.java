@@ -8,18 +8,18 @@
  public class EduardoSilva_Exercicio2L4 {
      public static void main(String[] args) {
 //VARIAVEIS
-        Scanner scanner = new Scanner(System.in);
-        int soma = 0;
+        Scanner ler = new Scanner(System.in);
+        int s = 0;
  
 //INICIO        
-         while (soma != 48 && soma != 71) {
-             System.out.println("Digite três números: ");
+         while (s != 48 && s != 71) {
+             System.out.println("Digite três números: "); //O USUARIO DIGITARÁ OS 3 NÚMEROS PARA O PROGRAMA FUNCIONAR
  
-             int numero1 = scanner.nextInt();
-             int numero2 = scanner.nextInt();
-             int numero3 = scanner.nextInt();
+             int n1 = ler.nextInt();
+             int n2 = ler.nextInt();
+             int n3 = ler.nextInt();
  
-             soma = numero1 + numero2 + numero3;
+             s = n1 + n2 + n3;
          }
  
          System.out.println("A soma é igual a 48 ou 71.");
