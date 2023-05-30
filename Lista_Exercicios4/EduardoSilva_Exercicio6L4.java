@@ -1,5 +1,5 @@
 /*
-Descrição: JAVA
+Descrição: JAVA QUE 
 Nome: Eduardo
 Data: 28/05/2023
  */
@@ -9,7 +9,7 @@ Data: 28/05/2023
  public class EduardoSilva_Exercicio6L4 {
       public static void main(String[] args) {
  //VARIAVEL
- Scanner ler = new Scanner(System.in);
+ Scanner ler = new Scanner(System.in); //DECLARAÇÃO SCANNER
  for (int i = 10; i >= 0; i--) {
      
      System.out.println(i);
