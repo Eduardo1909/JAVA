@@ -7,17 +7,18 @@
     public static void main(String[] args) {
 
 //VARIAVEIS
-        int limiteSuperior = 100; 
-        int soma = 0;
+     //DECLARAÇÃO
+        int ls = 100; 
+        int s = 0;
 
 //INICIO
-        for (int i = 1; i <= limiteSuperior; i++) {
-            int quadrado = i * i;
-            if (quadrado % 4 == 0) {
-                soma += i;
+        for (int i = 1; i <= ls; i++) {
+            int q = i * i;
+            if (q % 4 == 0) {
+                s += i;
             }
         }
 
-        System.out.println(" " +soma);
+        System.out.println(" " +s);
     }
  }
