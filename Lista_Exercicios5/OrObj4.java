@@ -5,6 +5,10 @@
 
 public class OrObj4{
     public static void main (String[]args)
+    VOVOh veia = new VOVOh(aparência: "lindo" );
+
+    System.out.println(veio.aparência);
+
 }
 
 class VOVOh{
